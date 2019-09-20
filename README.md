@@ -1,6 +1,6 @@
 # boilr-registry
 
-This is a boilr template for creating a registry credentials extension. Use a registry credential extension to provide authentication credentials for pulling images from container registries. Get started by cloning the project and installing the template:
+This is a [boilr template](https://github.com/tmrts/boilr) for creating a registry credentials extension. Use a registry credential extension to provide authentication credentials for pulling images from container registries. Get started by cloning the project and installing the template:
 
 ```console
 $ cd boilr-registry
